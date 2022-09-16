@@ -1,0 +1,1 @@
+console.log(0 || 0 || null || 1 || 32);
